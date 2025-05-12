@@ -1,6 +1,17 @@
-### These are JS projects aimed at sharpening js skills from 0 to 100
+# JavaScript Projects to Sharpen Skills from 0 to 100
 
-## Our project 1 is Colour flipper link 
+## ✅ Project 1: Color Flipper
 
-THis project we learn how we are able to change background color by use a click button listener
+🔗 [View on GitHub](https://github.com/kibetamos/JavaScript_projects/tree/main/01-color-flipper)
 
+In this beginner-friendly project, we build a **Color Flipper** — a simple app that changes the background color of the webpage when a button is clicked.
+
+### 🔍 What You'll Learn:
+- DOM manipulation
+- Handling events with `addEventListener`
+- Generating random colors using JavaScript
+- Applying styles dynamically
+
+This is a great starting point for anyone looking to understand JavaScript interaction with HTML and CSS.
+
+---
