@@ -12,6 +12,7 @@ In this beginner-friendly project, we build a **Color Flipper** — a simple app
 - Generating random colors using JavaScript
 - Applying styles dynamically
 
+
 This is a great starting point for anyone looking to understand JavaScript interaction with HTML and CSS.
 
 ---
