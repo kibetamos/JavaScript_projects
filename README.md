@@ -16,3 +16,8 @@ In this beginner-friendly project, we build a **Color Flipper** — a simple app
 This is a great starting point for anyone looking to understand JavaScript interaction with HTML and CSS.
 
 ---
+## ✅ Project 2: Reviews
+
+🔗 [View on GitHub](https://github.com/kibetamos/JavaScript_projects/tree/main/03-reviews)
+
+In this beginner-friendly project, we build a **Reviews** — a simple app that 
