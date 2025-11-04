@@ -33,16 +33,16 @@ In this beginner-friendly project, we build a **Reviews** — a simple app that
 
 ## General Questions
 
-🔗 [View] https://java-script-projects-o4le.vercel.app/
+🔗 [View](https://java-script-projects-o4le.vercel.app/)
 
 ## menu
-🔗 [View] https://java-script-projects-owef.vercel.app/
+🔗 [View](https://java-script-projects-owef.vercel.app/)
 
 
 ## Grocery bud
 
-🔗 [View] https://java-script-projects-s31n.vercel.app/
+🔗 [View](https://java-script-projects-s31n.vercel.app/)
 
 
 ## Reviews 
-🔗 [View] https://java-script-projects-8a5i.vercel.app/
+🔗 [View](https://java-script-projects-8a5i.vercel.app/)
