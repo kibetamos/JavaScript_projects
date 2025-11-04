@@ -21,3 +21,28 @@ This is a great starting point for anyone looking to understand JavaScript inter
 🔗 [View on GitHub](https://github.com/kibetamos/JavaScript_projects/tree/main/03-reviews)
 
 In this beginner-friendly project, we build a **Reviews** — a simple app that 
+
+
+## lorem ipsum
+https://java-script-projects-x42t.vercel.app/
+
+
+## color picker
+https://java-script-projects-yvu2.vercel.app/
+
+
+## General Questions
+
+https://java-script-projects-o4le.vercel.app/
+
+## menu
+https://java-script-projects-owef.vercel.app/
+
+
+## Grocery bud
+
+https://java-script-projects-s31n.vercel.app/
+
+
+## Reviews 
+https://java-script-projects-8a5i.vercel.app/
