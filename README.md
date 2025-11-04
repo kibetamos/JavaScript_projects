@@ -26,22 +26,26 @@ uses html css and js to show reviews.
 
 ## lorem ipsum
 🔗 [View](https://java-scri0pt-projects-x42t.vercel.app/)
+
 Tired of lorem ipsum, CHck out this projecvt that generates random texts 
 in paragraphs.
 
 
 ## color picker
 🔗 [View](https://java-script-projects-yvu2.vercel.app/)
+
 Want to pick different colors, look no further
 check out this project for both simple and hex color code
 generation.
 
 ## General Questions
+
 See how questiond are brought to life, Both questions and answers
 
 🔗 [View](https://java-script-projects-o4le.vercel.app/)
 
 ## menu
+
 🔗 [View](https://java-script-projects-owef.vercel.app/)
 
 
@@ -51,4 +55,5 @@ See how questiond are brought to life, Both questions and answers
 
 
 ## Reviews 
+
 🔗 [View](https://java-script-projects-8a5i.vercel.app/)
