@@ -28,7 +28,7 @@ In this beginner-friendly project, we build a **Reviews** — a simple app that
 
 
 ## color picker
-🔗 [View] (https://java-script-projects-yvu2.vercel.app/)
+🔗 [View](https://java-script-projects-yvu2.vercel.app/)
 
 
 ## General Questions
