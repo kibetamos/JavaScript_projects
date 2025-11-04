@@ -20,18 +20,24 @@ This is a great starting point for anyone looking to understand JavaScript inter
 
 🔗 [View on GitHub](https://github.com/kibetamos/JavaScript_projects/tree/main/03-reviews)
 
-In this beginner-friendly project, we build a **Reviews** — a simple app that 
+In this beginner-friendly project, we build a **Reviews** — a simple app that
+uses html css and js to show reviews. 
 
 
 ## lorem ipsum
-🔗 [View] https://java-script-projects-x42t.vercel.app/
+🔗 [View](https://java-scri0pt-projects-x42t.vercel.app/)
+Tired of lorem ipsum, CHck out this projecvt that generates random texts 
+in paragraphs.
 
 
 ## color picker
 🔗 [View](https://java-script-projects-yvu2.vercel.app/)
-
+Want to pick different colors, look no further
+check out this project for both simple and hex color code
+generation.
 
 ## General Questions
+See how questiond are brought to life, Both questions and answers
 
 🔗 [View](https://java-script-projects-o4le.vercel.app/)
 
